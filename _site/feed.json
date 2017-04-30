@@ -5,6 +5,13 @@
 	"items": [
 		
 		{
+			"id": "http://jeff.micro.blog/2017/04/30/i-modified-my.html",
+			"content_html": "<p>I modified my Wordpress Child Theme to include website validation for Micro.blog:\n<a href=\"https://jeffvautin.com/2017/04/child-theme-modifications-for-micro-blog/\">Child Theme Modifications for Micro.blog</a></p>\n",
+			"date_published": "2017-04-30T02:08:00+00:00",
+			"url": "http://jeff.micro.blog/2017/04/30/i-modified-my.html"
+		},
+		
+		{
 			"id": "http://jeff.micro.blog/2017/04/26/is-this-thing.html",
 			"content_html": "<p>Is this thing on?</p>\n",
 			"date_published": "2017-04-26T16:27:00+00:00",
