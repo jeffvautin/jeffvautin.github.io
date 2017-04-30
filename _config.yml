@@ -47,7 +47,7 @@ url: "http://jeff.micro.blog"
 markdown: "kramdown"
 username: "jeff"
 permalink: "/:year/:month/:day/:title.html"
-relative_permalinks: "false"
+relative_permalinks: false
 author: "Jeff Vautin"
 name: "Jeff Vautin"
 gravatar_hash: "004ce6443ff2c0ec37adb5933fd43cda"
