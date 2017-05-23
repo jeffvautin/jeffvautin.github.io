@@ -4,8 +4,16 @@
     <title>Jeff Vautin</title>
     <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
     <link>http://jeff.micro.blog/</link>
-    <pubDate>Tue, 23 May 2017 03:41:42 +0000</pubDate>
-    <lastBuildDate>Tue, 23 May 2017 03:41:42 +0000</lastBuildDate>
+    <pubDate>Tue, 23 May 2017 03:44:44 +0000</pubDate>
+    <lastBuildDate>Tue, 23 May 2017 03:44:44 +0000</lastBuildDate>
+    
+      <item>
+        <description>&lt;p&gt;I think this is the first bug I’ve reported that Apple unambiguously resolved: &lt;a href=&quot;https://jeffvautin.com/2017/05/mastered-for-itunes-droplet-fixed/&quot;&gt;Master for iTunes Droplet – Fixed!&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 May 2017 03:44:00 +0000</pubDate>
+        <link>http://jeff.micro.blog/2017/05/23/i-think-this.html</link>
+        <guid isPermaLink="true">http://jeff.micro.blog/2017/05/23/i-think-this.html</guid>
+      </item>
     
       <item>
         <description>&lt;p&gt;I modified my Wordpress Child Theme to include website validation for Micro.blog:
