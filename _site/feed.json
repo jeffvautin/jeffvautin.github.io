@@ -1,8 +1,16 @@
 {
+	"version": "https://jsonfeed.org/version/1",
 	"title": "Jeff Vautin",
 	"home_page_url": "http://jeff.micro.blog/",
 	"feed_url": "http://jeff.micro.blog/feed.json",
 	"items": [
+		
+		{
+			"id": "http://jeff.micro.blog/2017/05/23/i-think-this.html",
+			"content_html": "<p>I think this is the first bug I’ve reported that Apple unambiguously resolved: <a href=\"https://jeffvautin.com/2017/05/mastered-for-itunes-droplet-fixed/\">Mastered for iTunes Droplet – Fixed!</a></p>\n",
+			"date_published": "2017-05-23T03:32:00+00:00",
+			"url": "http://jeff.micro.blog/2017/05/23/i-think-this.html"
+		},
 		
 		{
 			"id": "http://jeff.micro.blog/2017/04/30/i-modified-my.html",
