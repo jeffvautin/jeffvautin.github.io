@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-22 23:44 -0400
 guid: http://jeff.micro.blog/2017/05/23/i-think-this.html
 ---
