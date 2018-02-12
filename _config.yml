@@ -2,15 +2,7 @@
 #   K i k o   #
 # # # # # # # #
 
-# Basic
-# - name: "[TITLE]"
-
-# - title: "[TITLE]"
-# - description: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
-# - base# - url: "[PATH]" # e.g. /manton or /az/azasdfasdf
-# - url: "http://[HOSTNAME]" # the base hostname & protocol for your site
 # - markdown: kramdown
-# - user# - name: "[USERNAME]"
 
 # Navigation
 nav:
@@ -51,7 +43,7 @@ relative_permalinks: false
 author: "Jeff Vautin"
 name: "Jeff Vautin"
 gravatar_hash: "004ce6443ff2c0ec37adb5933fd43cda"
-avatar: "https://www.gravatar.com/avatar/004ce6443ff2c0ec37adb5933fd43cda?s=160"
+avatar: "https://micro.blog/jeff/avatar.jpg"
 full_name: "Jeff Vautin"
 bio: ""
 twitter_username: ""
@@ -60,3 +52,4 @@ instagram_username: ""
 paginate: 20
 paginate_path: "/page/:num/"
 timezone: "US/Michigan"
+site_id: "299"
