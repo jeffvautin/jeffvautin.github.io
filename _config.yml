@@ -1,34 +1,11 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
+email: your-email@domain.com
 
-# - markdown: kramdown
-
-# Navigation
-nav:
-  - # - name:           "About"
-    href:           "/about/"
-  - # - name:           "RSS"
-    href:           "/feed.xml"
-
-# Sass
+exclude:
+  - Gemfile
+  - Gemfile.lock
 sass:
-  style:            :compressed
-
-# Scopes
-defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
-    values:
-      layout:       "post"
+  sass_dir: assets/stylesheets
+  style: :compressed
 
 title: "Jeff Vautin"
 tagline: ""
@@ -53,3 +30,4 @@ paginate: 20
 paginate_path: "/page/:num/"
 timezone: "US/Michigan"
 site_id: "299"
+gems: ["jekyll-paginate"]
