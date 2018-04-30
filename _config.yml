@@ -1,11 +1,22 @@
-email: your-email@domain.com
+highlighter: "rouge"
+# - markdown: "kramdown"
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-sass:
-  sass_dir: assets/stylesheets
-  style: :compressed
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+
+plugins:
+  - jekyll-sitemap
 
 title: "Jeff Vautin"
 tagline: ""
@@ -15,6 +26,7 @@ baseurl: ""
 url: "http://micro.jeffvautin.com"
 markdown: "kramdown"
 username: "jeff"
+microblog_user: "jeff"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Jeff Vautin"
@@ -31,3 +43,5 @@ paginate_path: "/page/:num/"
 timezone: "US/Michigan"
 site_id: "299"
 gems: ["jekyll-paginate"]
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
